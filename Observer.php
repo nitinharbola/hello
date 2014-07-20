@@ -18,3 +18,4 @@ class SW_GridExample_Model_Observer
         }
     }
 }
+testing
